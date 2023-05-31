@@ -26,6 +26,7 @@ Lista de tecnologias e frameworks usados
 * cors - conexão das parte back e front
 * ndoemon - Manter o servidor em run time
 
-### ⚙️ Executando os testes
+### ⚙️ Executando o projeto
+![Projeto no ar](https://github.com/Thauan-Fonseca/API-books/blob/main/giphy-_6_.gif)
 
 
